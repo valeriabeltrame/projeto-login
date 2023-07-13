@@ -63,3 +63,7 @@ div#formulario > p {
     font-size: 0.8em;
     text-align: justify;
 }
+
+div.campo {
+    font-size: 0.7em;
+}
