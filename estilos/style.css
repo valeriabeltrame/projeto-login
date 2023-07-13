@@ -89,13 +89,13 @@ div.campo > span {
 div.campo > input {
     background-color: #5b9494;
     font-size: 1em; 
-    width: calc(100% - 49.6px);
-    height: 45px;
+    width: calc(100% - 49.4px);
+    height: 44px;
     border: 0px;
     border-radius: 8px;
     padding: 4px;
 
-    transform: translateY(-8px);
+    transform: translateY(-8.4px);
 }
 
 form > input[type=submit] {
